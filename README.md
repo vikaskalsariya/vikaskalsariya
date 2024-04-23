@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Ksslariya</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<h5 align="left">💬 Ask me about Anything NodeJS, MongoDb, PostgreSQL, SqLite,  ReactJS, NextJs, JavaScript, TypeScript, FrontEnd</h5>
+<h5 align="left">👋 Welcome to my profile! I'm Vikas Kalsariya, a passionate full-stack developer with a knack for turning ideas into reality through code. Here's a bit about me:<br><br>🛠️ Expertise :<br>I specialize in a range of technologies, including:<br><br>Node.js: Building robust, scalable backends.<br>MongoDB: Crafting efficient database solutions.<br>Express.js: Creating APIs and backend services.<br>React.js & Next.js: Crafting dynamic and responsive user interfaces.<br>JavaScript & TypeScript: Mastering the art of programming with these powerful languages.<br>Frontend Development: Crafting engaging and user-friendly experiences.</h5>
 
 ###
 
@@ -76,6 +76,12 @@
   <a href="https://ko-fi.com/vikaskalsariya#paypalModal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="ko-fi logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vikaskalsariya/count.svg?"  />
 </div>
 
 ###
