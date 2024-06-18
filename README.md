@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Kalsariya</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/938bd6e40e95bcacecea12bb26a6aa9bc6f32f36d7ec2744df5248903b5a57b8/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f6d5432504e653536314b6f3757646c35365971547a685954546b727765312d6e5f454f5f315531305750452f72733a6669743a313230303a3834303a312f673a63652f6148523063484d364c79397a644746302f61574d784c6d316861325631633256762f5a6d6c745957646c6379356a623230762f643239795a4842795a584e7a4c3364772f4c574e76626e526c626e5176645842732f6232466b637938794d4445344c7a45782f4c325268636d737464324673624842682f6347567963793571634763"  />
-</div>
 
 <h5 align="left">👋 Welcome to my profile! I'm Vikas Kalsariya, a passionate full-stack developer with a knack for turning ideas into reality through code. Here's a bit about me:<br><br>🛠️ Expertise :<br>I specialize in a range of technologies, including:<br><br>Node.js: Building robust, scalable backends.<br>MongoDB: Crafting efficient database solutions.<br>Express.js: Creating APIs and backend services.<br>React.js & Next.js: Crafting dynamic and responsive user interfaces.<br>JavaScript & TypeScript: Mastering the art of programming with these powerful languages.<br>Frontend Development: Crafting engaging and user-friendly experiences.</h5>
 
