@@ -3,6 +3,7 @@
 
 <h5 align="left">👋 Welcome to my profile! I'm Vikas Kalsariya, a passionate full-stack developer with a knack for turning ideas into reality through code. Here's a bit about me:<br><br>🛠️ Expertise :<br>I specialize in a range of technologies, including:<br><br>Node.js: Building robust, scalable backends.<br>MongoDB: Crafting efficient database solutions.<br>Express.js: Creating APIs and backend services.<br>React.js & Next.js: Crafting dynamic and responsive user interfaces.<br>JavaScript & TypeScript: Mastering the art of programming with these powerful languages.<br>Frontend Development: Crafting engaging and user-friendly experiences.</h5>
 
+- 👨‍💻 All of my projects are available at [www.vikaskalsariya.me](www.vikaskalsariya.me)
 
 ###
 
@@ -57,6 +58,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vikaskalsariya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikaskalsariya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikaskalsariya&show_icons=true&locale=en&layout=compact" alt="vikaskalsariya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikaskalsariya&show_icons=true&locale=en" alt="vikaskalsariya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskalsariya&" alt="vikaskalsariya" /></p>
 </div>
 
 ###
