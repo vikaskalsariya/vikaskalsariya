@@ -3,7 +3,7 @@
 
 <h5 align="left">👋 Welcome to my profile! I'm Vikas Kalsariya, a passionate full-stack developer with a knack for turning ideas into reality through code. Here's a bit about me:<br><br>🛠️ Expertise :<br>I specialize in a range of technologies, including:<br><br>Node.js: Building robust, scalable backends.<br>MongoDB: Crafting efficient database solutions.<br>Express.js: Creating APIs and backend services.<br>React.js & Next.js: Crafting dynamic and responsive user interfaces.<br>JavaScript & TypeScript: Mastering the art of programming with these powerful languages.<br>Frontend Development: Crafting engaging and user-friendly experiences.</h5>
 
-- 👨‍💻 All of my projects are available at [www.vikaskalsariya.me](www.vikaskalsariya.me)
+- 👨‍💻 All of my projects are available at (www.vikaskalsariya.me)
 
 ###
 
