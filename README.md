@@ -60,13 +60,3 @@
 </div>
 
 ###
-
-<h5 align="left">Connect with me:</h5>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vikaskalsariya/count.svg?"  />
-</div>
-
-###
